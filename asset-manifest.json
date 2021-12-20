@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/photoshop-landing/static/css/main.42805779.chunk.css",
+    "main.js": "/photoshop-landing/static/js/main.3a8aaa46.chunk.js",
+    "main.js.map": "/photoshop-landing/static/js/main.3a8aaa46.chunk.js.map",
+    "runtime-main.js": "/photoshop-landing/static/js/runtime-main.b3546cf4.js",
+    "runtime-main.js.map": "/photoshop-landing/static/js/runtime-main.b3546cf4.js.map",
+    "static/js/2.1cbb9352.chunk.js": "/photoshop-landing/static/js/2.1cbb9352.chunk.js",
+    "static/js/2.1cbb9352.chunk.js.map": "/photoshop-landing/static/js/2.1cbb9352.chunk.js.map",
+    "index.html": "/photoshop-landing/index.html",
+    "static/css/main.42805779.chunk.css.map": "/photoshop-landing/static/css/main.42805779.chunk.css.map",
+    "static/js/2.1cbb9352.chunk.js.LICENSE.txt": "/photoshop-landing/static/js/2.1cbb9352.chunk.js.LICENSE.txt",
+    "static/media/Sort.b2d5eda2.svg": "/photoshop-landing/static/media/Sort.b2d5eda2.svg",
+    "static/media/Stars.1e4518ed.svg": "/photoshop-landing/static/media/Stars.1e4518ed.svg",
+    "static/media/Vector.d3c7de51.svg": "/photoshop-landing/static/media/Vector.d3c7de51.svg",
+    "static/media/avatar.5bb0bc10.svg": "/photoshop-landing/static/media/avatar.5bb0bc10.svg",
+    "static/media/book.6f25dc06.svg": "/photoshop-landing/static/media/book.6f25dc06.svg",
+    "static/media/box.e8731ae3.svg": "/photoshop-landing/static/media/box.e8731ae3.svg",
+    "static/media/checked.5dbab397.svg": "/photoshop-landing/static/media/checked.5dbab397.svg",
+    "static/media/cloud.92c7bbaf.svg": "/photoshop-landing/static/media/cloud.92c7bbaf.svg",
+    "static/media/graduation-hat.31389c21.svg": "/photoshop-landing/static/media/graduation-hat.31389c21.svg",
+    "static/media/logo.62dae609.svg": "/photoshop-landing/static/media/logo.62dae609.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3546cf4.js",
+    "static/js/2.1cbb9352.chunk.js",
+    "static/css/main.42805779.chunk.css",
+    "static/js/main.3a8aaa46.chunk.js"
+  ]
+}
