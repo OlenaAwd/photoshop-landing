@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/photoshop-landing/static/css/main.42805779.chunk.css",
-    "main.js": "/photoshop-landing/static/js/main.3a8aaa46.chunk.js",
-    "main.js.map": "/photoshop-landing/static/js/main.3a8aaa46.chunk.js.map",
+    "main.css": "/photoshop-landing/static/css/main.95cc29d8.chunk.css",
+    "main.js": "/photoshop-landing/static/js/main.f75a0e64.chunk.js",
+    "main.js.map": "/photoshop-landing/static/js/main.f75a0e64.chunk.js.map",
     "runtime-main.js": "/photoshop-landing/static/js/runtime-main.b3546cf4.js",
     "runtime-main.js.map": "/photoshop-landing/static/js/runtime-main.b3546cf4.js.map",
     "static/js/2.1cbb9352.chunk.js": "/photoshop-landing/static/js/2.1cbb9352.chunk.js",
     "static/js/2.1cbb9352.chunk.js.map": "/photoshop-landing/static/js/2.1cbb9352.chunk.js.map",
     "index.html": "/photoshop-landing/index.html",
-    "static/css/main.42805779.chunk.css.map": "/photoshop-landing/static/css/main.42805779.chunk.css.map",
+    "static/css/main.95cc29d8.chunk.css.map": "/photoshop-landing/static/css/main.95cc29d8.chunk.css.map",
     "static/js/2.1cbb9352.chunk.js.LICENSE.txt": "/photoshop-landing/static/js/2.1cbb9352.chunk.js.LICENSE.txt",
     "static/media/Sort.b2d5eda2.svg": "/photoshop-landing/static/media/Sort.b2d5eda2.svg",
     "static/media/Stars.1e4518ed.svg": "/photoshop-landing/static/media/Stars.1e4518ed.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.b3546cf4.js",
     "static/js/2.1cbb9352.chunk.js",
-    "static/css/main.42805779.chunk.css",
-    "static/js/main.3a8aaa46.chunk.js"
+    "static/css/main.95cc29d8.chunk.css",
+    "static/js/main.f75a0e64.chunk.js"
   ]
 }
